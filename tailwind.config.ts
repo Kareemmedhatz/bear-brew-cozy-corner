@@ -57,6 +57,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        cream: "hsl(var(--cream))",
+        cocoa: "hsl(var(--cocoa))",
+        caramel: "hsl(var(--caramel))",
+        honey: "hsl(var(--honey))",
+      },
+      fontFamily: {
+        display: ["Fraunces", "serif"],
+        sans: ["DM Sans", "sans-serif"],
       },
       borderRadius: {
         lg: "var(--radius)",
